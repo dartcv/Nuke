@@ -125,6 +125,16 @@
 
 脚本开发文档维护于 [NukeDevelopers/NukeJsDocs](https://github.com/NukeDevelopers/NukeJsDocs)，包含快速开始、权限模型、API 参考与迁移说明。
 
+## ⭐ Star History
+
+<a href="https://www.star-history.com/?repos=dartcv%2FNuke&amp;type=date&amp;legend=top-left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=dartcv/Nuke&amp;type=date&amp;theme=dark&amp;legend=top-left" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=dartcv/Nuke&amp;type=date&amp;legend=top-left" />
+    <img alt="Nuke Star History Chart" src="https://api.star-history.com/chart?repos=dartcv/Nuke&amp;type=date&amp;legend=top-left" />
+  </picture>
+</a>
+
 
 ---
 
